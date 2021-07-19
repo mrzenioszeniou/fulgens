@@ -1,7 +1,7 @@
 extern crate chrono;
 
-pub mod data;
 pub mod column;
-pub mod table;
+pub mod data;
 pub mod error;
 pub mod row;
+pub mod table;

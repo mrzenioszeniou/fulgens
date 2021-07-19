@@ -1,3 +1,3 @@
 pub struct Error {
-  message: String,
+    message: String,
 }
